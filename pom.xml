@@ -13,6 +13,8 @@
     <module>ReversedBinary</module>
     <module>JavaRegx</module>
     <module>CallablesFutures</module>
+      <module>CollectionAPI</module>
+      <module>StreamAPI</module>
   </modules>
 
   <name>algorithm</name>
