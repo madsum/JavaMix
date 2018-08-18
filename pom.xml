@@ -15,6 +15,7 @@
     <module>CallablesFutures</module>
       <module>CollectionAPI</module>
       <module>StreamAPI</module>
+      <module>CollectionApi</module>
   </modules>
 
   <name>algorithm</name>
